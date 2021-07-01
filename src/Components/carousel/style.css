@@ -1,0 +1,14 @@
+img{
+    max-width: 100%;
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.carousel-slider .react-multi-carousel-item {
+ padding: 0 5px;
+}
+.carousel-slider .react-multi-carousel-track  {
+ margin: 0 -5px;
+}
